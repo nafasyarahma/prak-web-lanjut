@@ -27,7 +27,7 @@ class Mahasiswa extends Seeder
                 'nama'    => 'Safiira Rahmah Linisa',
                 'alamat' => 'Lampung Tengah',
                 'created_at'    => Time::now()
-            ]
+            ],
         ];
 
         foreach($data_mahasiswa as $data){
